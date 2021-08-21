@@ -1,0 +1,159 @@
+digraph G {
+  node_0 [label="(cc 11 5)" shape=none]
+  node_1 [label="(cc 11 4)" shape=none]
+  node_2 [label="(cc 11 3)" shape=none]
+  node_3 [label="(cc 11 2)" shape=none]
+  node_4 [label="(cc 11 1)" shape=none]
+  node_5 [label="(cc 11 0)" shape=none]
+  node_6 [label="0" shape=none]
+  node_7 [label="(cc 10 1)" shape=none]
+  node_8 [label="(cc 10 0)" shape=none]
+  node_9 [label="0" shape=none]
+  node_10 [label="(cc 9 1)" shape=none]
+  node_11 [label="(cc 9 0)" shape=none]
+  node_12 [label="0" shape=none]
+  node_13 [label="(cc 8 1)" shape=none]
+  node_14 [label="(cc 8 0)" shape=none]
+  node_15 [label="0" shape=none]
+  node_16 [label="(cc 7 1)" shape=none]
+  node_17 [label="(cc 7 0)" shape=none]
+  node_18 [label="0" shape=none]
+  node_19 [label="(cc 6 1)" shape=none]
+  node_20 [label="(cc 6 0)" shape=none]
+  node_21 [label="0" shape=none]
+  node_22 [label="(cc 5 1)" shape=none]
+  node_23 [label="(cc 5 0)" shape=none]
+  node_24 [label="0" shape=none]
+  node_25 [label="(cc 4 1)" shape=none]
+  node_26 [label="(cc 4 0)" shape=none]
+  node_27 [label="0" shape=none]
+  node_28 [label="(cc 3 1)" shape=none]
+  node_29 [label="(cc 3 0)" shape=none]
+  node_30 [label="0" shape=none]
+  node_31 [label="(cc 2 1)" shape=none]
+  node_32 [label="(cc 2 0)" shape=none]
+  node_33 [label="0" shape=none]
+  node_34 [label="(cc 1 1)" shape=none]
+  node_35 [label="(cc 1 0)" shape=none]
+  node_36 [label="0" shape=none]
+  node_37 [label="1" shape=none]
+  node_38 [label="(cc 6 2)" shape=none]
+  node_39 [label="(cc 6 1)" shape=none]
+  node_40 [label="(cc 6 0)" shape=none]
+  node_41 [label="0" shape=none]
+  node_42 [label="(cc 5 1)" shape=none]
+  node_43 [label="(cc 5 0)" shape=none]
+  node_44 [label="0" shape=none]
+  node_45 [label="(cc 4 1)" shape=none]
+  node_46 [label="(cc 4 0)" shape=none]
+  node_47 [label="0" shape=none]
+  node_48 [label="(cc 3 1)" shape=none]
+  node_49 [label="(cc 3 0)" shape=none]
+  node_50 [label="0" shape=none]
+  node_51 [label="(cc 2 1)" shape=none]
+  node_52 [label="(cc 2 0)" shape=none]
+  node_53 [label="0" shape=none]
+  node_54 [label="(cc 1 1)" shape=none]
+  node_55 [label="(cc 1 0)" shape=none]
+  node_56 [label="0" shape=none]
+  node_57 [label="1" shape=none]
+  node_58 [label="(cc 1 2)" shape=none]
+  node_59 [label="(cc 1 1)" shape=none]
+  node_60 [label="(cc 1 0)" shape=none]
+  node_61 [label="0" shape=none]
+  node_62 [label="1" shape=none]
+  node_63 [label="(cc -4 2)" shape=none]
+  node_64 [label="0" shape=none]
+  node_65 [label="(cc 1 3)" shape=none]
+  node_66 [label="(cc 1 2)" shape=none]
+  node_67 [label="(cc 1 1)" shape=none]
+  node_68 [label="(cc 1 0)" shape=none]
+  node_69 [label="0" shape=none]
+  node_70 [label="1" shape=none]
+  node_71 [label="(cc -4 2)" shape=none]
+  node_72 [label="0" shape=none]
+  node_73 [label="(cc -9 3)" shape=none]
+  node_74 [label="0" shape=none]
+  node_75 [label="(cc -14 4)" shape=none]
+  node_76 [label="0" shape=none]
+  node_77 [label="(cc -39 5)" shape=none]
+  node_78 [label="0" shape=none]
+  node_0 -> node_1
+  node_1 -> node_2
+  node_2 -> node_3
+  node_3 -> node_4
+  node_4 -> node_5
+  node_5 -> node_6
+  node_4 -> node_7
+  node_7 -> node_8
+  node_8 -> node_9
+  node_7 -> node_10
+  node_10 -> node_11
+  node_11 -> node_12
+  node_10 -> node_13
+  node_13 -> node_14
+  node_14 -> node_15
+  node_13 -> node_16
+  node_16 -> node_17
+  node_17 -> node_18
+  node_16 -> node_19
+  node_19 -> node_20
+  node_20 -> node_21
+  node_19 -> node_22
+  node_22 -> node_23
+  node_23 -> node_24
+  node_22 -> node_25
+  node_25 -> node_26
+  node_26 -> node_27
+  node_25 -> node_28
+  node_28 -> node_29
+  node_29 -> node_30
+  node_28 -> node_31
+  node_31 -> node_32
+  node_32 -> node_33
+  node_31 -> node_34
+  node_34 -> node_35
+  node_35 -> node_36
+  node_34 -> node_37
+  node_3 -> node_38
+  node_38 -> node_39
+  node_39 -> node_40
+  node_40 -> node_41
+  node_39 -> node_42
+  node_42 -> node_43
+  node_43 -> node_44
+  node_42 -> node_45
+  node_45 -> node_46
+  node_46 -> node_47
+  node_45 -> node_48
+  node_48 -> node_49
+  node_49 -> node_50
+  node_48 -> node_51
+  node_51 -> node_52
+  node_52 -> node_53
+  node_51 -> node_54
+  node_54 -> node_55
+  node_55 -> node_56
+  node_54 -> node_57
+  node_38 -> node_58
+  node_58 -> node_59
+  node_59 -> node_60
+  node_60 -> node_61
+  node_59 -> node_62
+  node_58 -> node_63
+  node_63 -> node_64
+  node_2 -> node_65
+  node_65 -> node_66
+  node_66 -> node_67
+  node_67 -> node_68
+  node_68 -> node_69
+  node_67 -> node_70
+  node_66 -> node_71
+  node_71 -> node_72
+  node_65 -> node_73
+  node_73 -> node_74
+  node_1 -> node_75
+  node_75 -> node_76
+  node_0 -> node_77
+  node_77 -> node_78
+}

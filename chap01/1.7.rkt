@@ -20,9 +20,8 @@
 (define (sqrt x)
   (sqrt-iter 1.0 x))
 
-; 0.001 is too large
 (sqrt 0.0009) ; 0.04030062264654547
-; square of guess is too large
+; guess 的平方太大，导致精度不足陷入死循环
 ; (sqrt 100000000000000000.0)
 
 (define (new-good-enough? guess new-guess)

@@ -28,8 +28,8 @@
 (new-if (= 2 3) 0 5)
 (new-if (= 1 1) 0 5)
 
-; applicative-order evaluation: then-caluse and else-clause will be evaluated,
-; which leads to infinite recursion. if statement will only evaluate one branch.
+; 应用序: 先计算参数 then-caluse 和 else-clause 会导致无限递归
+; if 语句会根据判断结果只计算一个分支
 ; (define (sqrt-iter guess x)
 ;   (new-if (good-enough? guess x)
 ;           guess
